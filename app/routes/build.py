@@ -5,8 +5,7 @@ from app.schemas.schema import BotConfigRequest
 from app.ingest import create_knowledge_base_selenium
 import os
 import json
-
-router = APIRouter()
+from app.routes import router
 
 @router.post("/build")
 async def build_bot(config: BotConfigRequest):
