@@ -1,5 +1,7 @@
 # Environment and Build Files
 venv/
+.venv/
+.env
 __pycache__/
 *.pyc
 
