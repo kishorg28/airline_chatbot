@@ -3,9 +3,8 @@ uvicorn
 pydantic
 langchain-core
 langchain-community
-langchain-google-genai
 langchain-text-splitters
-langchain
+langchain == 0.0.154
 langchain-huggingface
 python-dotenv
 requests
@@ -13,3 +12,5 @@ beautifulsoup4
 sentence-transformers
 faiss-cpu
 streamlit
+google.generativeai
+playwright

@@ -1,7 +1,7 @@
 import os
 import json
 from langchain.tools import tool
-from langchain_community.vectorstores import FAISS
+from langchain_community.vectorstores.faiss import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings # <-- UPDATED IMPORT
 
 INDEX_DIR = "faiss_indexes"
