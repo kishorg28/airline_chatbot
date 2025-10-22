@@ -1,0 +1,12 @@
+# Environment and Build Files
+venv/
+__pycache__/
+*.pyc
+
+# IDE/Editor files (common for VS Code and others)
+.vscode/
+.DS_Store
+
+# Temporary/Cache Files
+# Hugging Face cache files (we don't commit model weights)
+.cache/
