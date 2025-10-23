@@ -61,3 +61,6 @@ https://drive.google.com/file/d/1t6DDObTRSw6RYpO2kTmgEUxdpFrUHTJA/view?usp=drive
 https://drive.google.com/file/d/1cB1xkQwGKu9IoYcXP4XJJlGb-42fnzQg/view?usp=drivesdk
 https://drive.google.com/file/d/1CpyGpT9co_wAyc-nr_FLPbl0HYBjH9lV/view?usp=drivesdk
 
+---
+## PPT Link
+https://www.canva.com/design/DAG2iMNPBsE/okXyxAxYIi7Z2pyRxbbcTg/edit?utm_content=DAG2iMNPBsE&utm_campaign=designshare
