@@ -7,7 +7,7 @@ A FastAPI and Streamlit-based AI agent that provides airline policy support usin
 ## ⚙️ Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/airline-support-chatbot.git
+git clone https://github.com/kishorg28/airline_chatbot
 cd airline-support-chatbot
 
 
