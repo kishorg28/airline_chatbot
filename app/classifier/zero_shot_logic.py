@@ -3,14 +3,14 @@ from transformers import pipeline
 
 # --- Configuration ---
 BART_MODEL = "facebook/bart-large-mnli"
-ON_TOPIC_LABEL = "A request specifically for airline customer support regarding flights, bookings, or policies."
+ON_TOPIC_LABEL = "A request specifically for airline customer support regarding flights, bookings, or policies. Any greetings"
 OFF_TOPIC_LABEL = "A question about science, history, entertainment, or other non-business topics."
 
 CANDIDATE_LABELS = [
     ON_TOPIC_LABEL,
     OFF_TOPIC_LABEL
 ]
-CONFIDENCE_THRESHOLD = 0.85
+CONFIDENCE_THRESHOLD = 0.70
 
 # --- Initialization ---
 # This block runs once when the module is imported.

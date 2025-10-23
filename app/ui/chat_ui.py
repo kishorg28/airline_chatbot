@@ -10,7 +10,7 @@ API_URL = "http://127.0.0.1:8000/chat"
 USER_ID = "hackathon-user-01"
 
 # --- Bot Selection ---
-available_bots = [f.replace("_config.json", "") for f in os.listdir("configs") if f.endswith("_config.json")]
+available_bots = [f.replace("_config.json", "") for f in os.listdir("E:\\airline_chatbot\\configs") if f.endswith("_config.json")]
 
 if not available_bots:
     st.warning("No bots have been built yet. Please use the Admin UI to build a bot first.")
